@@ -1,0 +1,25 @@
+
+
+
+Cw 4.
+
+
+1. aby przejsc do kat ale :
+	sciezka wzgledna: cd ../../../kot/ma/ale
+	scieżka bezwzględna: cd /home/ubuntu/kropa/kot/ma/ale
+
+2. za pomoca takiej komendy mkdir -p ../../../kot/ma/ale/jan/kowalski
+
+3.  za pomoca koment mv ../../../kot/ma/ale ../../i
+
+4. Mozna to zrobic za pomoca komendy kill lub kill PID albo zabic bezposrednio proces.
+5.  ls -la | grep al
+6. chmod 751 
+7.
+8. ktos zmienim ustawienia dostepu dla mnie.
+9. za pomoca strzłki w góre mozemy sobie wczytywac komendy z historii, albo autouzupełnianie za pomoca tab.
+10. 
+
+	ctrl+z
+ 	  job
+   	bg %1
