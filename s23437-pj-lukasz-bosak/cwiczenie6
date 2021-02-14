@@ -1,0 +1,8 @@
+
+cw 6.
+
+
+1. Na zajeciach omawiany był power shell, który jest międzyplatformową strukturą zarządzania zadaniami i konfiguracji, 
+składająca sie  z powłoki wiersza polecenia i języka skryptowego. W przeciwieństwie do większości powłok, które akceptują
+ i zwracają tekst, program PowerShell jest zbudowany w oparciu
+ o środowisko uruchomieniowe języka wspólnego (CLR) platformy .NET, a następnie akceptuje i zwraca obiekty .NET.

@@ -1,0 +1,22 @@
+
+
+Cw 3.
+
+1. Zadanie
+ ps -listowanie procesów. a z parametrem aps -a - wyswietla procesy poza tymi zwiaznamymi z terminalem
+ ps aux - wyświetla wszystkie procesy systemowe
+
+2. Zadanie
+Po uruchomieniu edytora tekstowego z pomoca komendy ps sprawdza PID tego programu. Uzywajac
+ komendy Kill i Pid procesu zamykam go komenda wait zatrzymuje ten proces
+
+3.Zadanie
+Komendactrl + c przerywa działanie programu
+komenda cat > wynik1, witaj, ctrl+c - dzialanie programu zostaje przerwane i w pliku nic sie nie pojawia
+komenda cat > wynik2, witaj, ctrl+d - w pliku pojawia się witaj moge wpisywac bezposrednio do pliku.
+
+4.Zadanie
+ctrl+z zatrzymuje program
+fg - powoduje powoduje powrot programy na "wierzch"
+komendy gimp &, gedit &, geany & - uruchamiają te programy w tle
+komenda jobs wyświetla listę procesów jakie sa aktualnie uruchomione.
