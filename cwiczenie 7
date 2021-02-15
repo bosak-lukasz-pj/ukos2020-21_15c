@@ -1,0 +1,12 @@
+
+cwiczenie 7.
+
+
+	Komenda set-executionpolicy bypass umozliwia kozystanie ze skryptów w trybie admin. get- help get-executionpolicy aby 
+otworzyc pomoc do tej komendy.
+	za pomoca komendy get-executionpolicy sprawdzamy execution policy i otrzymujemy bypass
+
+	get-module -listavaible zapiosujemy liste polecen do danego pliku, start-bittransfer -source aby pobrac grafike z internetu
+aby zmiezyc czas uzywamy measure-command.
+
+Za pomoca & mozemy w power shellu uruchamiac programy, np notatnik.
